@@ -1,0 +1,4 @@
+Dataset,Total Gambar (Raw),Gambar Asian / Relevan,Sudah Ada Label Face Shape,Format Label,Isu Utama yang Ditemukan
+UTKFace,66966,9974,Tidak,Nama file (race=2),"Watermark, crop tidak seragam, variasi pose & pencahayaan"
+FairFace,97698,26047,Tidak,CSV terpisah (East/SE Asian),"Label di CSV terpisah, perlu di-join, kualitas in-the-wild"
+Men Face Shape,1309,1309,Ya,Nama folder,"Dominan non-Asian, perlu filter & standarisasi ukuran"
