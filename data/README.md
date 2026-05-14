@@ -19,5 +19,5 @@ Folder ini berisi dataset lokal yang tidak di-push ke GitHub karena ukurannya be
 
 ### Download Dataset
 
-- All Datasets in raw: https://drive.google.com/file/d/17AAoNjfCx3F58oqBDi7KgZ99hrWVK-36/view
+- All Datasets in raw: https://drive.google.com/file/d/19FtrMQfFzCtyeQIwDmgdr5BiD1UYrWS7/view?usp=sharing
 - Dataset before and after balancing: https://drive.google.com/file/d/17AAoNjfCx3F58oqBDi7KgZ99hrWVK-36/view
