@@ -18,5 +18,6 @@ Folder ini berisi dataset lokal yang tidak di-push ke GitHub karena ukurannya be
 - Dataset ZIP: https://drive.google.com/file/d/1aBFH2q5nIFO1RiO6UqarWpENYMwQJxLD/view?usp=drive_link
 
 ### Download Dataset
+
 - All Datasets in raw: https://drive.google.com/file/d/17AAoNjfCx3F58oqBDi7KgZ99hrWVK-36/view
 - Dataset before and after balancing: https://drive.google.com/file/d/17AAoNjfCx3F58oqBDi7KgZ99hrWVK-36/view
