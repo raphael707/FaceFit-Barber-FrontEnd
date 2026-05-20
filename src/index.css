@@ -14,24 +14,6 @@ body {
   font-family: 'DM Sans', sans-serif;
   background: #0f0f0f;
 }
-.pulse-container {
-    position: relative;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-.pulse-ring {
-    position: absolute;
-    border-radius: 50%;
-    background-color: rgba(59, 130, 246, 0.4);
-    animation: pulse-animation 2.5s infinite;
-    z-index: 0;
-}
-.pulse-ring-2 { animation-delay: 1.25s; }
-@keyframes pulse-animation {
-    0% { transform: scale(0.8); opacity: 0.8; }
-    100% { transform: scale(2.2); opacity: 0; }
-}
 
 @theme {
   --font-sans: "DM Sans", sans-serif, system-ui, sans-serif;
