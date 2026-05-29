@@ -23,3 +23,24 @@ body {
 body {
   @apply font-sans bg-[#0f0f0f] text-white;
 }
+
+@keyframes scan-move {
+0%, 100% {
+top: 10%;
+}
+50% {
+top: 90%;
+}
+}
+
+@keyframes slideUp {
+from {
+opacity: 0;
+transform: translateY(20px);
+}
+to {
+opacity: 1;
+transform: translateY(0);
+}
+}
+
